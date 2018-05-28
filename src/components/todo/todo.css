@@ -1,0 +1,9 @@
+.list{
+    display: none;
+}
+.show{
+    display: none;
+}
+.hide{
+    display: block !important;
+}
